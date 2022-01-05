@@ -6,15 +6,9 @@ CREDIT_REPORT = 100
 HOME_INSPECTION = 500
 HOA_TRANSFER_FEE = 250
 
-
 rate = 0
 
-
-
-
 # Define a function called payment.
-
-
 
 def main():
     menu()
@@ -22,16 +16,11 @@ def main():
     house_cost()
 
 
-
-    
 def menu():
     print('****************welcome to homeloan project*********************')
     print('----------------------------------------------------------------')
     print('CALCULATING THE MONTHLY PAYMENT')
     
-    
-    
-
     
 def payment():
     
